@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "願い",
+  "base_artist": "Dohzi-T",
+  "createdAt": "2026-01-14T03:42:00.190464Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "願い",
+      "artist": "JAM Project",
+      "has_synced": true,
+      "path": "select/01_願い_JAM_Project.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "願い",
+      "artist": "Ketsumeishi",
+      "has_synced": true,
+      "path": "select/02_願い_Ketsumeishi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "願い",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/03_願い_ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "願い~あの頃のキミへ~",
+      "artist": "Mirei Toyama",
+      "has_synced": true,
+      "path": "select/04_願い~あの頃のキミへ~_Mirei_Toyama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "願い",
+      "artist": "ハンバート ハンバート",
+      "has_synced": false,
+      "path": "select/05_願い_ハンバート_ハンバート.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "願い (Album-mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/06_願い_(Album-mix)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "願い - Album Ver.",
+      "artist": "EXILE ATSUSHI",
+      "has_synced": false,
+      "path": "select/07_願い_-_Album_Ver._EXILE_ATSUSHI.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "願い -Album ver.-",
+      "artist": "EXILE",
+      "has_synced": false,
+      "path": "select/08_願い_-Album_ver.-_EXILE.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Negai (Album-mix) [願い (Album-mix)]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/09_Negai_(Album-mix)_[願い_(Album-mix)]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Negai [願い]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/10_Negai_[願い]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Negai [願い] -Original Instrumental-",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/11_Negai_[願い]_-Original_Instrumental-_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "願い",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/12_願い_sumika.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "願い〜あの頃のキミへ〜",
+      "artist": "當山みれい",
+      "has_synced": true,
+      "path": "select/13_願い〜あの頃のキミへ〜_當山みれい.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "願い",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/14_願い_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "願い",
+      "artist": "FLOWER FLOWER",
+      "has_synced": true,
+      "path": "select/15_願い_FLOWER_FLOWER.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "願い〜あの頃のキミへ〜 (祈愿～致那个时候的你～)",
+      "artist": "當山みれい",
+      "has_synced": true,
+      "path": "select/16_願い〜あの頃のキミへ〜_(祈愿~致那个时候的你~)_當山みれい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "願い feat.YU-A (Foxxi misQ)",
+      "artist": "童子-T",
+      "has_synced": false,
+      "path": "select/pl_01_願い_feat.YU-A_(Foxxi_misQ)_童子-T.txt"
+    }
+  ]
+}
